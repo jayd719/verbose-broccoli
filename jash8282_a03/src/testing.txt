@@ -1,0 +1,120 @@
+"""
+-------------------------------------------------------
+Assignment 3
+-------------------------------------------------------
+Author:  Jashandeep Singh
+ID:      169018282
+Email:   jash8282@mylaurier.ca
+Version: "2022-10-22"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Square footage: 100000
+
+2.30 acres is equivalent to 100,000.00 square feet
+
+
+Square footage: 20000000
+
+459.14 acres is equivalent to 20,000,000.00 square feet
+
+
+Square footage: 20000000
+
+459.14 acres is equivalent to 20,000,000.00 square feet
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Width (m): 20
+Length (m): 10
+Speed (m^2/minute): 5
+
+Mowing the lawn takes 40 minutes
+
+Width (m): 20
+Length (m): 50
+Speed (m^2/minute): 4
+
+Mowing the lawn takes 250 minutes
+
+
+Width (m): 10
+Length (m): 10
+Speed (m^2/minute): 10
+
+Mowing the lawn takes 10 minutes
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format MMDDYYYY: 10251962
+
+The reformatted date: 1962/10/25
+
+
+Enter a date in the format MMDDYYYY: 08301997
+
+The reformatted date: 1997/08/30
+
+Enter a date in the format MMDDYYYY: 01012022
+
+The reformatted date: 2022/01/01
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Numerator 1: 1
+Denominator 1: 2
+Numerator 2: 3
+Denominator 2: 4
+
+Result: 3/8 = 0.375
+
+
+Numerator 1: 5
+Denominator 1: 6
+Numerator 2: 7
+Denominator 2: 8
+
+Result: 35/48 = 0.729
+
+
+Numerator 1: 4
+Denominator 1: 9
+Numerator 2: 3
+Denominator 2: 8
+
+Result: 12/72 = 0.167
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+    548
++   986
+
+Your answer: 1534
+
+Your answer: 1534
+Expected:    1534
+
+
+    583
++   110
+
+Your answer: 0
+
+Your answer:    0
+Expected:     693
+
+
+    702
++    51
+
+Your answer: 1222
+
+Your answer: 1222
+Expected:     753
+-------------------------------------------------------

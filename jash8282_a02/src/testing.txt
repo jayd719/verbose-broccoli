@@ -1,0 +1,143 @@
+"""
+-------------------------------------------------------
+Assignment 2
+-------------------------------------------------------
+Author:  Jashandeep Singh
+ID:      169018282
+Email:   jash8282@mylaurier.ca
+Version: "2022-10-07"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total sales: $32000
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 32,000.00
+Annual tax:    % 18.5
+--------------------------
+Tax:           $  5,920.00
+
+
+Enter the total sales: $5000
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 5,000.00
+Annual tax:    % 18.5
+--------------------------
+Tax:           $  925.00
+
+
+Enter the total sales: $1000000
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 1,000,000.00
+Annual tax:    % 18.5
+--------------------------
+Tax:           $  185,000.00
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive digit number: 25
+
+The product of the digits of 25 is 10
+
+
+Enter a positive digit number: 35
+
+The product of the digits of 35 is 15
+
+
+Enter a positive digit number: 12
+
+The product of the digits of 12 is 2
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format DDMMYYYY: 12122022
+
+The reformatted date: 2022/12/12
+
+
+Enter a date in the format DDMMYYYY: 25101962
+
+The reformatted date: 1962/10/25
+
+
+Enter a date in the format DDMMYYYY: 30081997
+
+The reformatted date: 1997/08/30
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of pieces of cake: 12
+Number of party-goers: 5
+
+Each party-goer receives 2 pieces of cake
+Pieces of cake that won’t be distributed: 2 
+
+
+Number of pieces of cake: 14
+Number of party-goers: 4
+
+Each party-goer receives 3 pieces of cake
+Pieces of cake that won’t be distributed: 2 
+
+
+Number of pieces of cake: 15
+Number of party-goers: 5
+
+Each party-goer receives 3 pieces of cake
+Pieces of cake that won’t be distributed: 0 
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Foundation length (m): 4
+Foundation width (m): 2
+Foundation height (m): .6
+Wall height (m): 2.5
+Cost of concrete ($/m^3): 125
+Cost of bricks ($/m^2): 94
+
+Concrete needed for foundation (m^3): 4.80
+Cost of concrete: $600.00
+Bricks needed for walls (m^2): 30.00
+Cost of bricks: $2,820.00
+Total cost: $3,420.00
+
+
+Foundation length (m): 10
+Foundation width (m): 15
+Foundation height (m): 12
+Wall height (m): 8
+Cost of concrete ($/m^3): 150
+Cost of bricks ($/m^2): 45
+
+Concrete needed for foundation (m^3): 1800.00
+Cost of concrete: $270,000.00
+Bricks needed for walls (m^2): 400.00
+Cost of bricks: $18,000.00
+Total cost: $288,000.00
+
+
+Foundation length (m): 60
+Foundation width (m): 5
+Foundation height (m): 2
+Wall height (m): 16
+Cost of concrete ($/m^3): 167
+Cost of bricks ($/m^2): 90
+
+Concrete needed for foundation (m^3): 600.00
+Cost of concrete: $100,200.00
+Bricks needed for walls (m^2): 2080.00
+Cost of bricks: $187,200.00
+Total cost: $287,400.00
+
+-------------------------------------------------------

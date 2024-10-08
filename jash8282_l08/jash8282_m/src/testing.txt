@@ -1,0 +1,61 @@
+"""
+-------------------------------------------------------
+Midterm B Testing
+-------------------------------------------------------
+-------------------------------------------------------
+Author:  Jashandeep Singh
+ID:      169018282
+Email:   jash8282@mylaurier.ca
+Version: "2022-11-01"
+-------------------------------------------------------
+Task 01
+-------------------------------------------------------
+"""
+
+total_coins(0, 0, 0, 0) → 0
+total_coins(1, 0, 0, 0) → 1
+total_coins(0, 1, 0, 0) → 3
+total_coins(0, 0, 1, 0) → 5
+total_coins(0, 0, 0, 1) → 10
+total_coins(1, 1, 1, 1) → 19
+total_coins(10, 10, 10, 10) → 190
+"""
+-------------------------------------------------------
+Task 02
+-------------------------------------------------------
+"""
+
+comic_condition(-1) → Error
+comic_condition(1.0) → poor
+comic_condition(1.8) → fair
+comic_condition(3.5) → good
+comic_condition(7.5) → fine
+comic_condition(9.8) → near mint
+
+
+"""
+-------------------------------------------------------
+Task 03
+-------------------------------------------------------
+"""
+
+How many extra services are you purchasing? 3
+Are you an Extra Care customer (Y/N)?Y
+Cost: $198.00
+
+"""
+-------------------------------------------------------
+Task 04
+-------------------------------------------------------
+"""
+Enter Response: Y
+Yes
+
+Enter Response: N
+No
+
+Enter Response: r
+unknown
+
+
+"""
